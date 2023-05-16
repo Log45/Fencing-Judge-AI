@@ -2,6 +2,11 @@ This project is meant to be able to accurately score Saber fencing bouts, hopefu
 
 I plan to train this model on all the olympic saber fencing bouts I can find on youtube initially, and may include amateur bouts as well to diversify the data so that it is also able to score slower bouts.
 
+TODO:
+- Choose a classification model
+- Create a dataset to train the model on
+* (Maybe create a program to automatically trim videos into single points to train the data on.)
+
 R&D Log:
 
 5/16/23
