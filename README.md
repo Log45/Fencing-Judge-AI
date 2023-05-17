@@ -5,7 +5,7 @@ I plan to train this model on all the olympic saber fencing bouts I can find on 
 TODO:
 - Choose a classification model
 - Create a dataset to train the model on
-- (Maybe create a program to automatically trim videos into single points to train the data on.)
+    - Maybe create a program to automatically trim videos into single points to train the data on.
 
 R&D Log:
 
@@ -14,3 +14,7 @@ R&D Log:
 - While I figure out which model to use, I'm going to continue following and hopefully finish Daniel Burke's PyTorch course. (https://www.youtube.com/watch?v=V_xro1bcAuA&t=32243s)
 - In order to save A LOT of time, I'm also pursuing a method to automatically cut videos to be a viable piece of data. 
     - To better develop this dataset, I am using pytube to download videos from youtube (code gotten from https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)
+        - pytube seems like it will work (though downloads seem pretty slow), but I keep running into an age-restriction issue even when I am signed into YouTube
+        - the program is confirmed to work with non-age-restricted content, but I still need to make it work for age-restricted videos like fencing tournaments
+        - (it seems like no matter what youtube account I use, it still claims that I am not logged in and does not allow "age restricted" content to be downloaded.)
+        - it honestly might just be easier to use a youtubetomp4 website instead
