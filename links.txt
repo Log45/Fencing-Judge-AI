@@ -1,0 +1,18 @@
+In this file is a list of youtube links to different fencing bouts to download in the format: {link, label, download status}:
+https://www.youtube.com/watch?v=o6CoxbvaxjU, "Oh Sanguk Compilation", downloaded
+https://youtu.be/-kGLho_Lex0, "2021 Korea v. Germany", downloaded
+https://youtu.be/uzy_hfPbO60, "2021 Korea v. Italy", downloaded
+https://youtu.be/nGearEu2PlU, "2012 Olympics Gold Metal", downloaded
+https://youtu.be/sF7HsBr0bzY, "2012 Semifinals", downloaded
+https://www.youtube.com/live/TIS3IGcKHV4?feature=share, "2021 Budapest Individual World Cup", downloaded
+https://youtu.be/LmdWynyN2JA, "2012 Korea Wins Team Gold", 
+https://youtu.be/jwTlniOigxw, "Szilagyi (HUN) v Bazadze (GEO)",
+https://youtu.be/KmUgb33TRDQ, "2021 USA v Hungary",
+https://youtu.be/AWwMRPBU4mU, "2021 Korea v Egypt Hightlights",
+https://youtu.be/9vfQPEDlb0E, "2022 Korea v Hungary",
+https://youtu.be/bS9NhECSy8Y, "2023 Mens Sabre World Cup Budapest",
+https://youtu.be/vtwlNBcA6ZM, "2019 Korea v Hungary", 
+https://www.youtube.com/watch?v=3y04qES-SBY, "2018 Wuxi World Championships Italy v Korea", 
+https://youtu.be/Bl4DTAsMlDM, "2018 Wuxi Korea v Sweden",
+https://youtu.be/nrJ4aLW15IE, "2023 Madrid USA v Hungary",
+https://youtu.be/Ad7yi10n-80, "2023 Nuccio v Bezadze", 

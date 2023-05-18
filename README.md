@@ -17,4 +17,11 @@ R&D Log:
         - pytube seems like it will work (though downloads seem pretty slow), but I keep running into an age-restriction issue even when I am signed into YouTube
         - the program is confirmed to work with non-age-restricted content, but I still need to make it work for age-restricted videos like fencing tournaments
         - (it seems like no matter what youtube account I use, it still claims that I am not logged in and does not allow "age restricted" content to be downloaded.)
-        - it honestly might just be easier to use a youtubetomp4 website instead
+        - it honestly might just be easier to use a youtubetomp4 website instead (https://en.y2mate.is/) seems to work (try not to accidentally download a virus)
+
+5/17/23
+- I've found multiple hours of fencing bouts to use for the data set, now I am starting to download them into the yt_downloads folder.
+    - Later, I'm going to need to edit them all down to single touches in order to get concise training data (this is going to take so many hours...)
+- It will be helpful later to train the model on specific happenings of fencing (like point line, parry-reposte, attack-no, etc...)
+- **Note** Do not try to open any video longer than 15 minutes in VSC, it will crash.
+- For future reference, do not push gigabytes of data into a repo in one push
