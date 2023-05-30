@@ -11,7 +11,7 @@ R&D Log:
 
 5/16/23
 - Project folder has been created, I'm beginning to research the best classification models for CV in PyTorch (https://pytorch.org/vision/stable/models.html)
-- While I figure out which model to use, I'm going to continue following and hopefully finish Daniel Burke's PyTorch course. (https://www.youtube.com/watch?v=V_xro1bcAuA&t=32243s)
+- While I figure out which model to use, I'm going to continue following and hopefully finish Daniel Bourke's PyTorch course. (https://www.youtube.com/watch?v=V_xro1bcAuA&t=32243s)
 - In order to save A LOT of time, I'm also pursuing a method to automatically cut videos to be a viable piece of data. 
     - To better develop this dataset, I am using pytube to download videos from youtube (code gotten from https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)
         - pytube seems like it will work (though downloads seem pretty slow), but I keep running into an age-restriction issue even when I am signed into YouTube
@@ -30,6 +30,6 @@ R&D Log:
 - Apparently people have already done this, but I'm just gonna cope and carry on doing it anyway. (Allez Go, https://github.com/sholtodouglas/fencing-AI, probably more)
 
 5/30/23
-- Currently, I'm going through Daniel Burke's PyTorch course and I just want to note that the actual scoring of the fencing bout is probably going to be a classification problem
+- Currently, I'm going through Daniel Bourke's PyTorch course and I just want to note that the actual scoring of the fencing bout is probably going to be a classification problem
 - (Might need to use BCEWithLogitLoss and SGD or CrossEntropyLoss)
 - If I do go down the painstaking route of making an app for visualizing the model and the bout itself, I might be able to use and modify YOLOv5, see https://pytorch.org/hub/ultralytics_yolov5/
