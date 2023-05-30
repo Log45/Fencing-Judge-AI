@@ -25,3 +25,11 @@ R&D Log:
 - It will be helpful later to train the model on specific happenings of fencing (like point line, parry-reposte, attack-no, etc...)
 - **Note** Do not try to open any video longer than 15 minutes in VSC, it will crash.
 - For future reference, do not push gigabytes of data into a repo in one push
+
+5/18/23
+- Apparently people have already done this, but I'm just gonna cope and carry on doing it anyway. (Allez Go, https://github.com/sholtodouglas/fencing-AI, probably more)
+
+5/30/23
+- Currently, I'm going through Daniel Burke's PyTorch course and I just want to note that the actual scoring of the fencing bout is probably going to be a classification problem
+- (Might need to use BCEWithLogitLoss and SGD or CrossEntropyLoss)
+- If I do go down the painstaking route of making an app for visualizing the model and the bout itself, I might be able to use and modify YOLOv5, see https://pytorch.org/hub/ultralytics_yolov5/
