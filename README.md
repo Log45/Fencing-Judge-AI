@@ -33,3 +33,17 @@ R&D Log:
 - Currently, I'm going through Daniel Bourke's PyTorch course and I just want to note that the actual scoring of the fencing bout is probably going to be a classification problem
 - (Might need to use BCEWithLogitLoss and SGD or CrossEntropyLoss)
 - If I do go down the painstaking route of making an app for visualizing the model and the bout itself, I might be able to use and modify YOLOv5, see https://pytorch.org/hub/ultralytics_yolov5/
+
+6/25-6/26/23
+- Finally taking the time to sort through the fencing clips I downloaded; I now have around 200 clips edited to the length of a touch and now I need to finish editing the last few bouts in the Budapest World Cup video. 
+    - Once I’m done with Budapest, I’m gonna download more clips from my list of videos and begin editing them
+
+- Along with the professionally scored videos; I’m going to get videos from fencing tournaments and bouts during my time fencing at RIT and edit/label those 
+
+- In addition to labeling touches from bouts; I need to get a lot of picture of fencing sabers to train the ai to recognize smaller portions of the bouts 
+    - I also am going to need to take the touches and break them up into different actions to train the ai on so it will be able to give reason for its calls 
+
+- During all of this I also am gonna need to implement some cv to trace different body parts and weapons for better representation and understanding by the model 
+    (This is going to be a long project 😭)
+
+- Need to create a Dropbox for all the fencing clips and link to that Dropbox in the readme file 
