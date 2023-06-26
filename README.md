@@ -47,3 +47,4 @@ R&D Log:
     (This is going to be a long project 😭)
 
 - Need to create a Dropbox for all the fencing clips and link to that Dropbox in the readme file 
+- After creating a Dropbox and realizing it has a 2gb limit, I'm just going to make a google drive folder to hold all the clips
