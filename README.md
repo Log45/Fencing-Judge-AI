@@ -2,6 +2,9 @@ This project is meant to be able to accurately score Saber fencing bouts, hopefu
 
 I plan to train this model on all the olympic saber fencing bouts I can find on youtube initially, and may include amateur bouts as well to diversify the data so that it is also able to score slower bouts.
 
+Fencing Dataset (clips of bouts from world cups, olympics, and college club fencing):
+https://drive.google.com/drive/folders/1VmFhBmm88Z9LU0zVJsLevOETzgLU8qim?usp=sharing 
+
 TODO:
 - Choose a classification model
 - Create a dataset to train the model on
@@ -48,3 +51,8 @@ R&D Log:
 
 - Need to create a Dropbox for all the fencing clips and link to that Dropbox in the readme file 
 - After creating a Dropbox and realizing it has a 2gb limit, I'm just going to make a google drive folder to hold all the clips
+
+6/27/23
+- I finished cutting the tournament from Budapest, I know have 364 touches that need to be labeled.
+- I'm uploading all of the datapoints to a google drive folder that will be linked below and at the top of the readme:
+    - https://drive.google.com/drive/folders/1VmFhBmm88Z9LU0zVJsLevOETzgLU8qim?usp=sharing 
