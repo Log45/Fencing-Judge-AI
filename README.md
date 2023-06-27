@@ -56,3 +56,5 @@ R&D Log:
 - I finished cutting the tournament from Budapest, I know have 364 touches that need to be labeled.
 - I'm uploading all of the datapoints to a google drive folder that will be linked below and at the top of the readme:
     - https://drive.google.com/drive/folders/1VmFhBmm88Z9LU0zVJsLevOETzgLU8qim?usp=sharing 
+- Resource for labeling video frames with YOLOv4: 
+    - https://www.youtube.com/watch?v=9b5g-smg5Mo 
