@@ -71,4 +71,12 @@ R&D Log:
             }
     - Go to papers with code and look into:
         - Activity recognition
+            - https://paperswithcode.com/paper/representation-flow-for-action-recognition
+            - https://paperswithcode.com/paper/understanding-the-vulnerability-of-skeleton
+            - https://paperswithcode.com/paper/temporal-relational-reasoning-in-videos
+            - https://paperswithcode.com/paper/posetrack-a-benchmark-for-human-pose
+            - https://paperswithcode.com/paper/human-activity-recognition-from-skeleton
         - Human pose estimation
+            - https://paperswithcode.com/paper/densepose-dense-human-pose-estimation-in-the
+            - https://paperswithcode.com/paper/3d-human-pose-estimation-in-video-with
+            - https://paperswithcode.com/paper/fast-and-flexible-human-pose-estimation-with
