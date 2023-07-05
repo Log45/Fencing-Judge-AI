@@ -58,3 +58,17 @@ R&D Log:
     - https://drive.google.com/drive/folders/1VmFhBmm88Z9LU0zVJsLevOETzgLU8qim?usp=sharing 
 - Resource for labeling video frames with YOLOv4: 
     - https://www.youtube.com/watch?v=9b5g-smg5Mo 
+
+7/4/23
+- After talking with my mentor at BNL, here are more things to look into:
+    - Segment Anything Model (by META) to annotate data
+        - https://github.com/facebookresearch/segment-anything 
+        - @article{kirillov2023segany,
+            title={Segment Anything},
+            author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a}r, Piotr and Girshick, Ross},
+            journal={arXiv:2304.02643},
+            year={2023}
+            }
+    - Go to papers with code and look into:
+        - Activity recognition
+        - Human pose estimation
