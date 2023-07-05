@@ -80,3 +80,6 @@ R&D Log:
             - https://paperswithcode.com/paper/densepose-dense-human-pose-estimation-in-the
             - https://paperswithcode.com/paper/3d-human-pose-estimation-in-video-with
             - https://paperswithcode.com/paper/fast-and-flexible-human-pose-estimation-with
+
+7/5/23
+- Added 'sabre_videos.txt' from https://github.com/sholtodouglas/fencing-AI/blob/master/sabre_videos.txt
