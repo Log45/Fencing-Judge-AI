@@ -1,3 +1,5 @@
 
 # pytorch files
 *.pth
+*.mp4
+*.mov
