@@ -83,3 +83,7 @@ R&D Log:
 
 7/5/23
 - Added 'sabre_videos.txt' from https://github.com/sholtodouglas/fencing-AI/blob/master/sabre_videos.txt
+
+7/6/23
+- Possible dataset to aid in training: UFC101 https://www.crcv.ucf.edu/data/UCF101.php 
+    - Includes a fencing class
